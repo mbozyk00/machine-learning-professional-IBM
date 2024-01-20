@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Various EDA projects written in jupyter notebboks (python/pyspark)
+Various EDA projects written in jupyter notebooks (python/pyspark)
